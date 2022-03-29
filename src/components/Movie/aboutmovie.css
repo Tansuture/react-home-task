@@ -1,0 +1,18 @@
+h2{
+    color:white;
+    margin-top: -170px;
+    margin-left:15%;
+    
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    color:white;
+    margin-left:88px ;
+    align-items: center;
+    justify-content: center;
+}
+.flex-container img{
+    width: 232px;
+}
